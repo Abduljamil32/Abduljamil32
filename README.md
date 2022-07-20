@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abduljamil32.
-- 👀 I’m interested in IOS Development.
+- 👀 I’m interested in internship at IOS Development.
 - 🌱 I’m currently learning IOS App Development.
 - 📫 How to reach me:
   Gmail: anizomxoja@gmail.com
