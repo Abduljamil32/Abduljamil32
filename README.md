@@ -5,12 +5,6 @@
 - 📫 How to reach me **anizomxoja@gmail.com**
 - 👨‍💻 All of my projects are available at [https://github.com/Abduljamil32?tab=repositories](https://github.com/Abduljamil32?tab=repositories)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abduljamil (abduljamil) nizomxōja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abduljamil (abduljamil) nizomxōja" height="30" width="40" /></a>
-<a href="https://instagram.com/1_abduljamil_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1_abduljamil_" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -26,7 +20,11 @@
 <p>Facebook clone in SwiftUI!!</p>
 <img src="https://user-images.githubusercontent.com/74173189/188132418-ad67dd15-ec4f-4650-9ea6-509f82a02188.mov">
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/Abduljamil Nizomxōja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abduljamil (abduljamil) nizomxōja" height="30" width="40" /></a>
+<a href="https://instagram.com/1_abduljamil_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1_abduljamil_" height="30" width="40" /></a>
+</p>
 
 
 
