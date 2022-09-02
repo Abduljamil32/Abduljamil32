@@ -19,3 +19,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abduljamil32&show_icons=true&locale=en" alt="abduljamil32" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abduljamil32&" alt="abduljamil32" /></p>
+
+<h3 align="left">My Experinece & Projects</h3>
+
+https://user-images.githubusercontent.com/74173189/188129350-0966b09d-916e-48a2-912e-539876095d8d.mov
+
