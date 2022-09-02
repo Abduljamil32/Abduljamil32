@@ -3,6 +3,7 @@
 
 
 - 📫 How to reach me **anizomxoja@gmail.com**
+- 👨‍💻 All of my projects are available at [https://github.com/Abduljamil32?tab=repositories](https://github.com/Abduljamil32?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
