@@ -18,11 +18,11 @@
 <img src="https://user-images.githubusercontent.com/74173189/189078523-b2da6def-89ac-4add-bb72-058bb4d07c82.mov">
 
 
-
-
-
 <p>Simple and interesting game with flags in SwiftUI!! :triangular_flag_on_post: :fire:</p>
 <img src="https://user-images.githubusercontent.com/74173189/188263682-3de54b20-8a15-435a-a00b-bcce66b9a0a2.mov">
+
+<p>News App with URLSession!! :newspaper: 🗞️ :fire:</p>
+<img src="https://user-images.githubusercontent.com/74173189/189515432-10e75990-25c1-46f3-adfc-2d6866b46081.mov">
 
 
 <p>I created my github page in SwiftUI and using API with Alamofire! :heart: :fire:</p>
