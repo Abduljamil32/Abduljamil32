@@ -22,9 +22,6 @@
 <p>IPhone Calculator 150 line of codes in SwiftUI!!! :iphone: </p>
 <img src="https://user-images.githubusercontent.com/74173189/189078523-b2da6def-89ac-4add-bb72-058bb4d07c82.mov">
 
-<p>To Do List App!🔥🔥</p>
-<img src="https://github.com/Abduljamil32/Abduljamil32/assets/74173189/9ea0e0c3-e537-4770-8875-712569968f50">
-
 <p>Simple and interesting game with flags in SwiftUI!! :triangular_flag_on_post: :fire:</p>
 <img src="https://user-images.githubusercontent.com/74173189/188263682-3de54b20-8a15-435a-a00b-bcce66b9a0a2.mov">
 
